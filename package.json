@@ -1,6 +1,6 @@
 {
   "name": "@se-oss/regexp-escape",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Isomorphic Stage 4 RegExp.escape polyfill",
   "keywords": [
     "regexp",
